@@ -13,7 +13,10 @@ Randomly generated passwords can provide greater security for sensitive data. HT
 * CSS
 * JavaScript
 
-# Live Link
+# Password Generator Sreenshot
+https://user-images.githubusercontent.com/105569378/196015238-de9fa9d7-fc30-4858-b03d-2540f0566043.png
+
+# [Live Link](https://cinderbeast.github.io/3-JavaScript-Password-Generator/)
 
 # [Repository Link](https://github.com/Cinderbeast/3-JavaScript-Password-Generator)
 
