@@ -18,7 +18,7 @@ Randomly generated passwords can provide greater security for sensitive data. HT
 
 # [Live Link](https://cinderbeast.github.io/3-JavaScript-Password-Generator/)
 
-# [Repository Link](https://github.com/Cinderbeast/3-JavaScript-Password-Generator)
+# [Repository Link](https://github.com/AngelChloe/3-JavaScript-Password-Generator)
 
 # Credits
 Created by Univeristy of Utah Coding Bootcamp and Student Cindy Chynoweth.
