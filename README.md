@@ -16,7 +16,7 @@ Randomly generated passwords can provide greater security for sensitive data. HT
 # Password Generator Sreenshot
 ![PassWordGen](https://user-images.githubusercontent.com/105569378/196015238-de9fa9d7-fc30-4858-b03d-2540f0566043.png)
 
-# [Live Link](https://cinderbeast.github.io/3-JavaScript-Password-Generator/)
+# [Live Link](https://angelchloe.github.io/3-JavaScript-Password-Generator/)
 
 # [Repository Link](https://github.com/AngelChloe/3-JavaScript-Password-Generator)
 
